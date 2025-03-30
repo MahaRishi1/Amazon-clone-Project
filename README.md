@@ -10,4 +10,4 @@ Product Filtering/Sorting: Users can filter and sort products by categories, pri
 JavaScript-Driven Interactions: Dynamic content loading, real-time updates to the shopping cart, and event-driven design make the app interactive and engaging.
 This project demonstrates strong proficiency in JavaScript, and front-end web development using HTML and CSS, while providing an accurate replica of Amazon’s essential functionalities.
 
-https://github.com/user-attachments/assets/445b3f54-63e4-46b5-a6b6-26f2862d2cb3
+
